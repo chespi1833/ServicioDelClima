@@ -1,2 +1,2 @@
 # ServicioDelClima
-App parte del Challenge para América Virtual
+Web en ASP.Net y MVC 5 parte del Challenge para América Virtual
